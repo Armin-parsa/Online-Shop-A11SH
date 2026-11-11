@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3b6279"/><stop offset="1" stop-color="#1d3544"/></linearGradient></defs>
+    <rect x="0" y="0" width="400" height="400" rx="92" fill="url(#bg)"/>
+    <path d="M146 168 C146 104 254 104 254 168" fill="none" stroke="#D3D0CB" stroke-width="16" stroke-linecap="round"/>
+    <polygon points="116,160 284,160 308,336 92,336" fill="#D3D0CB" stroke="#D3D0CB" stroke-width="30" stroke-linejoin="round"/>
+    <circle cx="146" cy="184" r="8" fill="#2E5266"/>
+    <circle cx="254" cy="184" r="8" fill="#2E5266"/>
+    <path d="M166 214 H196 A40 40 0 0 1 196 294 H166 Z" fill="none" stroke="#2E5266" stroke-width="20" stroke-linejoin="round"/>
+    <line x1="258" y1="254" x2="282" y2="254" stroke="#6E8898" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="292" cy="254" r="10" fill="#6E8898"/>
+    <circle cx="264" cy="222" r="6" fill="#6E8898"/>
+    <circle cx="264" cy="286" r="6" fill="#6E8898"/>
+    </svg>
