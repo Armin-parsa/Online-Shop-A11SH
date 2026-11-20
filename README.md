@@ -7,7 +7,6 @@ You can use the following demo credentials to log in and test the website:
 Feel free to explore the website and test the login functionality!
 
 
-
 ## 🔐 اطلاعات ورود آزمایشی
 
 این پروژه برای احراز هویت کاربران از API فیک استور (FakeStore API) استفاده می‌کند.
